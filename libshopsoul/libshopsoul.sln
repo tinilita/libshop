@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31515.178
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "libshopsolution", "libshopsolution.csproj", "{CBD1B482-925F-4A14-B569-1C59A19E2411}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "libshopsoul", "libshopsoul.csproj", "{3015AE12-AA96-42D6-A9F6-639B3B96F444}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{CBD1B482-925F-4A14-B569-1C59A19E2411}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{CBD1B482-925F-4A14-B569-1C59A19E2411}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{CBD1B482-925F-4A14-B569-1C59A19E2411}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{CBD1B482-925F-4A14-B569-1C59A19E2411}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3015AE12-AA96-42D6-A9F6-639B3B96F444}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3015AE12-AA96-42D6-A9F6-639B3B96F444}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3015AE12-AA96-42D6-A9F6-639B3B96F444}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3015AE12-AA96-42D6-A9F6-639B3B96F444}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {640A550D-BDB7-4063-81DE-AEC9C0876559}
+		SolutionGuid = {46283EB2-8019-4653-AB9B-29EF3B88EE4E}
 	EndGlobalSection
 EndGlobal
