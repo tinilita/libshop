@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31515.178
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "libshopsolution", "libshopsolution.csproj", "{49DEF194-30D2-408B-B6BD-55B525A70E98}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "libshopsolution", "libshopsolution.csproj", "{1D44905E-62C2-4FBD-856B-77CB286DBBBD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{49DEF194-30D2-408B-B6BD-55B525A70E98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{49DEF194-30D2-408B-B6BD-55B525A70E98}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{49DEF194-30D2-408B-B6BD-55B525A70E98}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{49DEF194-30D2-408B-B6BD-55B525A70E98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D44905E-62C2-4FBD-856B-77CB286DBBBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D44905E-62C2-4FBD-856B-77CB286DBBBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D44905E-62C2-4FBD-856B-77CB286DBBBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D44905E-62C2-4FBD-856B-77CB286DBBBD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {85766967-5BFF-493A-B290-5F6F317EEEE1}
+		SolutionGuid = {37753DAD-4BB5-4BEA-8701-0C58C37E37F8}
 	EndGlobalSection
 EndGlobal
