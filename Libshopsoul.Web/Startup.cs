@@ -30,7 +30,7 @@ namespace libshopsoul
             services.AddControllers();
             services.AddSwaggerGen(c =>
             {
-                c.SwaggerDoc("v1", new OpenApiInfo { Title = "libshopsoul", Version = "v1" });
+                c.SwaggerDoc("v1", new OpenApiInfo { Title = "Libshopsoul.Web", Version = "v1" });
             });
         }
 
@@ -41,7 +41,7 @@ namespace libshopsoul
             {
                 app.UseDeveloperExceptionPage();
                 app.UseSwagger();
-                app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "libshopsoul v1"));
+                app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "Libshopsoul.Web v1"));
             }
 
             app.UseHttpsRedirection();
